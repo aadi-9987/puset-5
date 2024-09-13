@@ -1,4 +1,6 @@
 # puset-5
 Git repo for collage project
 <br>
-author - Aditya Pradhan
+ - Babin Thakur
+ - Aditya Pradhan
+ - Anjan Limbu 
